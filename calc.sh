@@ -1,7 +1,7 @@
 clear
 sum=0
 i="y"
-vnmvmbn
+
 echo " Enter one no."
 read n1
 echo "Enter second no."
